@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToastActivity</string>
+
+    <string-array name="spinner_items">
+        <item>Mobile App</item>
+        <item>JAVA</item>
+        <item>HTML</item>
+    </string-array>
+</resources>
